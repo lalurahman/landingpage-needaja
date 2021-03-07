@@ -18988,7 +18988,7 @@ section.shadow,
 }
 
 .why-choose-us .shape-pipes {
-  width: 100px;
+  width: 50px;
   height: 10px;
   background-color: #ffeae5;
 }
@@ -18997,7 +18997,7 @@ section.shadow,
 .why-choose-us .shape-pipes:before,
 .why-choose-us .shape-pipes:after {
   -webkit-transform: rotate(-35deg);
-  transform: rotate(-35deg);
+  transform: rotate(-25deg);
   border-radius: 50px;
 }
 
@@ -19012,16 +19012,16 @@ section.shadow,
 }
 
 .why-choose-us .shape-pipes:before {
-  width: 80px;
+  width: 50px;
   height: 7px;
-  -webkit-transform: translate(30px, -8px);
-  transform: translate(30px, -8px);
-  background-color: #fee9de;
+  -webkit-transform: translate(15px, -8px);
+  transform: translate(15px, -8px);
+  background-color: #9dcdee;
 }
 
 .why-choose-us .shape-pipes:after {
   height: 5px;
-  width: 60px;
+  width: 30px;
   -webkit-transform: translate(14px, 10px);
   transform: translate(14px, 10px);
   background-color: #afd4fa;
