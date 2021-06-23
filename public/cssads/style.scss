@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@800;900&display=swap");
+
+body {
+  max-width: 400px;
+  margin: 0 auto;
+  font-family: "Nunito Sans", sans-serif;
+
+  .logo-img {
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 50px;
+    img {
+      width: 200px;
+    }
+  }
+  .text-tagline h1 {
+    margin: 0 auto;
+    padding: 5%;
+    font-size: 25px;
+    font-weight: 900;
+    color: #32c5f1;
+  }
+
+  .text-1 {
+    margin: 0 auto;
+    // padding: 3% 0 3% 0;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: 10px;
+    background-color: #29addc;
+    border-radius: 50px;
+    font-weight: 900;
+    // display: inline-block;
+  }
+
+  .back-1 {
+    background-image: url("/img/ui\ web-03.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+    // padding-top: 140px;
+    margin: 0 auto;
+    h6 {
+      color: #32c5f1;
+      font-weight: 900;
+    }
+    h2 {
+      margin-top: -20px;
+      color: #32c5f1;
+      font-size: 50px;
+      font-weight: 900;
+    }
+    h5 {
+      background-color: #fff;
+      color: #32c5f1;
+      display: inline-flex;
+      padding: 1%;
+      border-radius: 50px;
+      font-size: 17px;
+      margin-bottom: 16px;
+    }
+  }
+
+  .org-kesel {
+    img {
+      margin-top: 10px;
+      width: 100%;
+    }
+  }
+
+  .text-2 {
+    background-color: #29addc;
+    padding: 5px;
+  }
+
+  .text-3 {
+    padding: 10px;
+    font-weight: 900;
+    h6 {
+      color: #29addc;
+      line-height: 25px;
+    }
+  }
+
+  .jadi-begini {
+    img {
+      width: 40px;
+    }
+    h5 {
+      color: #29addc;
+    }
+  }
+
+  // .video {
+  //   margin: 10px;
+  // }
+
+  .text-install {
+    // background-color: #29addc;
+    a {
+      background-color: #29addc;
+      position: relative;
+    }
+  }
+
+  .img-install {
+    img {
+      width: 100%;
+      margin-top: -30px;
+    }
+  }
+
+  .social-media {
+    background-color: #29addc;
+    padding: 10px;
+    border-top: 1px solid #fff;
+    img {
+      width: 20px;
+    }
+  }
+}
